@@ -1,0 +1,6 @@
+# Ignore Visual Studio generated files for MFC project
+MfcCalculator/.vs/
+MfcCalculator/Debug/
+MfcCalculator/Release/
+MfcCalculator/x64/
+MfcCalculator/*.user
